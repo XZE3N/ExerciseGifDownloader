@@ -21,8 +21,8 @@ $jsonObject = $jsonContent | ConvertFrom-Json
 
 # Create the all GIFs folder if it doesn't exist
 $allFolderPath = "all"
-if (-not (Test-Path -Path $folderPath)) {
-    New-Item -Path $folderPath -ItemType Directory
+if (-not (Test-Path -Path $allFolderPath)) {
+    New-Item -Path $allFolderPath -ItemType Directory
 }
 
 # Create the categories folder if it doesn't exist
