@@ -10,8 +10,7 @@ Script for scraping an Open Public Domain Exercise Database in `JSON` format, 13
 
 - **Large Exercise Database:** Access to over 1300 exercises with individual exercise data.
 - **Generate JSON File:** Request information regarding exercise information from the RapidAPI database.
-- **Process JSON Data:** Reads the JSON file containing exercise information (name, category, and URL).
-- **Download Exercise GIFs:** Automatically downloads GIFs from provided URLs.
+- **Download Exercise GIFs:** Automatically downloads GIFs from their provided URLs.
 - **Organize by Category:** Sorts and stores each downloaded GIF into its respective exercise category folder.
 - **Renames Files:** Renames each downloaded GIF based on the exercise name for easy identification.
 - **Error Handling:** Skips problematic entries (e.g., invalid URLs, invalid file names) and logs errors without stopping the script.
