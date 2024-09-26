@@ -16,7 +16,7 @@ Specifies the RapidAPI Key.
 #>
 
 Param(
-    [string]$ApiKey,  # RapidAPI Key passed as a parameter
+    [string]$ApiKey  # RapidAPI Key passed as a parameter
 )
 
 # Check if the API key is provided
