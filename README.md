@@ -30,7 +30,7 @@ Script for scraping an Open Public Domain Exercise Database in `JSON` format, 13
 
 2. Obtain a RapidAPI Private Key:
    - Visit RapidAPI and sign up for a free account or log in if you already have one.
-   - In the RapidAPI dashboard, use the search bar to find the API [ExerciseDB](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb).
+   - In the RapidAPI dashboard, use the search bar to find the API ([ExerciseDB](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb)).
    - Choose a subscription plan (this API offers a free tier). Feel free to support the creator of the API - Justin.
    - After subscribing, navigate to the "Endpoints" tab for that API. At the top of the page, you’ll see your X-RapidAPI-Key. This is your private key.
    - Copy the API key and use it as a parameter when executing `Request-Exercises.ps1`.
@@ -68,6 +68,7 @@ Script for scraping an Open Public Domain Exercise Database in `JSON` format, 13
          "Repeat for the desired number of repetitions."
        ]
       },
+      ...
    ]
    ```
   
