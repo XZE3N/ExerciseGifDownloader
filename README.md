@@ -4,7 +4,7 @@ Script for scraping an Open Public Domain Exercise Database in `JSON` format, 13
 
 ## Overview
 
-**ExerciseGifDownloader** is a collection of PowerShell scripts designed to scrape data from a RapidAPI Exercise Database. The script downloads each GIF from a provided URL, renames it based on the exercise name, and stores it in a folder corresponding to its category. I originally developed the script to collect media for a larger project involving exercise demonstrations. While working on this project, I noticed a lack of free and well-organized exercise GIFs available online, so I created this tool to help download and categorize GIFs from a structured, open source dataset. 
+**ExerciseGifDownloader** is a collection of PowerShell scripts designed to scrape data from a RapidAPI Exercise Database. The script downloads each GIF from a provided URL and stores it based on category. I originally developed the script to collect media for a larger project involving exercise demonstrations. While working on this project, I noticed a lack of free and well-organized exercise GIFs available online, so I created this tool to help download and categorize GIFs from a well structured, open source dataset. 
 
 ## Features
 
