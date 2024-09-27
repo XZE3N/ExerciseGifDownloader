@@ -1,5 +1,8 @@
 # **ExerciseGifDownloader** 💪
 
+![GitHub License](https://img.shields.io/github/license/XZE3N/ExerciseGifDownloader)
+![GitHub last commit](https://img.shields.io/github/last-commit/XZE3N/ExerciseGifDownloader)
+
 Script for scraping an Open Public Domain Exercise Database in `JSON` format, 1300+ exercises.
 
 ## Overview
